@@ -322,9 +322,9 @@ set(libgeotiff_md5 "5ce69bd89fdc3be245bd118cf0bc71f1")
 list(APPEND fletch_external_sources libgeotiff)
 
 # GDAL
-set(GDAL_version "1.11.4")
+set(GDAL_version "1.11.5")
 set(GDAL_url "http://download.osgeo.org/gdal/${GDAL_version}/gdal-${GDAL_version}.tar.gz")
-set(GDAL_md5 "e9a966f0f5a88c43da47faf78a865952")
+set(GDAL_md5 "879fa140f093a2125f71e38502bdf714")
 list(APPEND fletch_external_sources GDAL)
 
 # GeographicLib
